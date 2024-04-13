@@ -47,3 +47,4 @@ if st.button('Predict'):
     else:
         st.write('This is Cat :cat:')
 
+streamlit run web.py
