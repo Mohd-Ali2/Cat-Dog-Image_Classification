@@ -46,5 +46,4 @@ if st.button('Predict'):
         st.write('This is a Dog :dog:')
     else:
         st.write('This is Cat :cat:')
-if __name__ == '__main__':
-    main()
+
