@@ -46,5 +46,5 @@ if st.button('Predict'):
         st.write('This is a Dog :dog:')
     else:
         st.write('This is Cat :cat:')
-
-streamlit run web.py
+if __name__ == '__main__':
+    main()
