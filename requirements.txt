@@ -1,6 +1,6 @@
-keras==3.2.1
-numpy==1.26.4
-pandas==2.2.2
-Pillow==9.0.1
-Pillow==10.3.0
-streamlit==1.33.0
+keras
+numpy
+pandas
+Pillow
+Pillow
+streamlit
