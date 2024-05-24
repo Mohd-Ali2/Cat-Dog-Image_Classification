@@ -40,7 +40,7 @@ if uploaded_file is not None:
 
 
 if st.button('Predict'):
-    loading_image = Image.open('loading-loading-forever.gif')
+    #loading_image = Image.open('loading-loading-forever.gif')
     st.image(loading_image, caption='Processing...', use_column_width=False)
     result = predict(uploaded_file)
     if result[0][0] == 1:
